@@ -1,2 +1,2 @@
 # hello-world
-All about Web and Software development
+I am a Web and Software Developer
